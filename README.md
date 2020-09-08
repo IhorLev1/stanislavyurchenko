@@ -4,6 +4,13 @@
 I'm a FrontEnd developer.
 
 
+<img src="./img/html.svg" width="50" hight="50">
+<img src="./img/css.svg" width="50" hight="50">
+<img src="./img/js.svg" width="50" hight="50">
+<img src="./img/git.svg" width="50" hight="50">
+<img src="./img/node-js.svg" width="50" hight="50">
+
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
