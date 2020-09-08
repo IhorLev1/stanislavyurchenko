@@ -1,6 +1,15 @@
+
+![alt text](pfoto.jpg "Описание будет тут")
+
+
+
 ### 👋 Hello everyone, my name is Stanislav.
 
+
+
 I'm a FrontEnd developer.
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
