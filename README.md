@@ -1,13 +1,8 @@
 
-![alt text](screenshots/filename.png "Описание будет тут")
-
-
-
-### 👋 Hello everyone, my name is Stanislav.
-
-
+### 👋 Hello everyone, my name is *Stanislav*.
 
 I'm a FrontEnd developer.
+
 
 
 
