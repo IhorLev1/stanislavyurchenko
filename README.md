@@ -1,5 +1,5 @@
 
-![alt text](pfoto.jpg "Описание будет тут")
+![alt text](screenshots/filename.png "Описание будет тут")
 
 
 
