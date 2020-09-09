@@ -6,8 +6,6 @@ I'm a Fullstack developer.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StanislavYurchenko)](https://github.com/StanislavYurchenko/stanislavyurchenko/blob/master/README.md)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **StanislavYurchenko/stanislavyurchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
