@@ -6,7 +6,7 @@ I'm a Fullstack developer.
 
 <!-- ![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png) -->
 
-![Image alt](https://github.com/StanislavYurchenko/StanislavYurchenko/raw/master/img/image.png)
+![Image alt](https://github.com/StanislavYurchenko/StanislavYurchenko/raw/master/img/git.svg)
 
 <img src="./img/html.svg" width="30" hight="30">
 <img src="./img/css.svg" width="30" hight="30">
