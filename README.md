@@ -55,11 +55,7 @@ Here are some ideas to get you started:
 
 <!-- <summary>:zap: Github Stats</summary> -->
 
-<img align="left" alt="Ivan's Fesenko Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IvanFesenko&show_icons=true&hide_border=true" />
-
-<br />
-<br />
-
+<!--
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -67,4 +63,4 @@ Here are some ideas to get you started:
 
 [instagram]: https://instagram.com/did1van
 
-[linkedin]: https://www.linkedin.com/in/ivan-fesenko-ba56b21a5 -->
+[linkedin]: https://www.linkedin.com/in/ivan-fesenko-ba56b21a5  -->
