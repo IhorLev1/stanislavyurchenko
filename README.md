@@ -5,7 +5,7 @@ I'm a Fullstack developer.
 <!-- ![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png) -->
 
 <!-- ![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png) -->
-![Image alt](https://github.com/StanislavYurchenko/StanislavYurchenko/raw/master/img/git.svg {width=40px height=40px})
+![Image alt](https://github.com/StanislavYurchenko/StanislavYurchenko/raw/master/img/git.svg = 25x25)
 
 
 <img src="./img/html.svg" width="30" hight="30">
